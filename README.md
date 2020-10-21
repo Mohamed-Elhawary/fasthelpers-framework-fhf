@@ -466,7 +466,8 @@ body {background-color: #121212}
 ```
 > Results: 
 
-- Day Mode
+- Day Mode  
+
 ![image](https://user-images.githubusercontent.com/69651552/96673231-55ae2480-1366-11eb-9966-af7469567d2c.png)
 
 - Day Mode when Hover on the Component
@@ -493,7 +494,8 @@ body {background-color: #121212}
 ```
 > Results: 
 
-- Day Mode
+- Day Mode  
+
 ![image](https://user-images.githubusercontent.com/69651552/96673695-5b583a00-1367-11eb-9c2e-d7d46d034c63.png)
 
 - Dark Mode
