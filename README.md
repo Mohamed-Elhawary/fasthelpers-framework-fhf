@@ -20,11 +20,10 @@ FastHelpers Framework will save you a lot of time in adding some frequently dupl
 - Very Important Feature: while it has Important Helper Classes that are grouped together in one Collection called  [FastHelpers Themes Classes (FHTC)], these Helpers Themes Classes will help you to make Different and Multiple THEMES for your Website in no Time, Plus they have in the same collection another Helpers Themes Classes Special for DARK MODE Theme,
 and by just Manipulating with Colors & Background-colors only in this Helpers Themes Classes you can make Multiple Themes.
 
-
 ## Prerequisites
   
-- Some Knowladge of how to manibulating with DOM in Javascript.
-- Some Knowladge of jQuery, because i will depend on it to control the links elements of themes, but it is optional for you as you can use pure JS for making same result.
+- Some Knowladge of how to Manibulating with DOM in Javascript.
+- Some Knowladge of jQuery, because i will depend on it to control the Links Elements of Themes, but it is Optional for you as you can use Pure JS for making same Result.
 - Good understand for CSS and control Styles of Classes.
 
 ## Getting Started
@@ -59,9 +58,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 .par {margin: 15px 0; font-size: 18px; font-weight: bold; color: #727586; line-height: 1.6} 
 /*
 - Special class for any paragraph that enhance most of requirements you need for any paragraph.
-
 - You may need to use the (padding) helper class to add some padding to your paragraph.
-
 - Change the color of the paragrapgh as you want.
 */
 ```
@@ -75,7 +72,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 /*
 - Add box-shadow for your box.
 - Suitable for Paragraphs boxes.
-- The Style of the shadow follows the material Designs, preferred to use it as shown above to have best experience.
+- The style of the shadow follows the material Designs, preferred to use it as shown above to have best experience.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96676352-6ada8180-136d-11eb-85ca-67569a7973c6.png)
@@ -190,9 +187,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 .before:hover::before {opacity: 1}
 /*
    - Add a box element as a before element in its parent element.
-
    - Its opacity equals to 0 until you hover on its parent element.
-   
    - You may need to add (relative) class to the element that has this helper class to get the right effect.
 */
 ```
