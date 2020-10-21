@@ -1,0 +1,38 @@
+:root {
+    --main-color:    /*your first color*/;
+    --second-color:  /*your second color*/
+}
+
+/*Start FastHelpers Themes Classes (FHTC)*/
+.theme-color {color: var(--main-color)}
+
+.theme-bg {background: linear-gradient(to left, var(--main-color) 0%, var(--second-color) 100%)}
+
+.theme-bg-hvr:hover {background: linear-gradient(to top, var(--main-color) 0%, var(--second-color) 100%)}
+
+.theme-color-hvr:hover {color: var(--main-color)}
+
+.theme-border {border: 1px solid var(--main-color)}
+
+.theme-text-shw {text-shadow: 0 0 20px /*rgba(var(--second-color) >> in rgb syntax, 0.6)*/}
+
+.theme-box-shw {box-shadow: 0px 2px 10px 0px var(--main-color)}
+
+.theme-box-shw-hvr:hover {box-shadow: 0 0 3px 2px /*rgb(var(--main-color) >> in rgb syntax, .8)*/}
+
+.before-bg:before {background: linear-gradient(to top,var(--main-color) 0%, var(--second-color) 100%)}
+
+.before-bg:hover::before {background: linear-gradient(to top, var(--main-color) 0%, var(--second-color) 100%)}
+/*End FastHelpers Themes Classes (FHTC)*/
+
+/*Start FastHelpers Dark Mode Classes*/
+body {background-color: #121212}
+
+.par {color: #b1b1b1}
+
+.dark-color {color: #f7f7f7}
+
+.dark-box {background: #222}
+
+.shadow {box-shadow: 0 0 16px rgba(126, 126, 126, .6)}
+/*End FastHelpers Dark  Mode Classes*/
