@@ -28,9 +28,10 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 - Good understand for CSS and control Styles of Classes.
 
 ## Getting Started
+
 #### First:  Perfect Location to insert this Framework Files.
 
-- If you use Bootstrap framework, so it is prefered to add fasthelpers files after the bootstrap link and after the style of the page itself that you stand on it now like the photo below.
+- If you use Bootstrap framework, so it is prefered to add fasthelpers files after the bootstrap link and after the style of the page itself that you stand on it now, like the photo below.
 
 ![image](https://user-images.githubusercontent.com/69651552/96479351-1f26bb80-1239-11eb-91df-bfcd8323f2af.png)
 
@@ -59,9 +60,9 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 /*
 - Special class for any paragraph that enhance most of requirements you need for any paragraph.
 
-- you may need to use the (padding) helper class to add some padding to your paragraph.
+- You may need to use the (padding) helper class to add some padding to your paragraph.
 
-- change the color of the paragrapgh as you want.
+- Change the color of the paragrapgh as you want.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96676387-7f1e7e80-136d-11eb-8e44-d625dde1ff64.png)
@@ -74,7 +75,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 /*
 - Add box-shadow for your box.
 - Suitable for Paragraphs boxes.
-- the Style of the shadow follows the material Designs, preferred to use it as shown above to have best experience.
+- The Style of the shadow follows the material Designs, preferred to use it as shown above to have best experience.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96676352-6ada8180-136d-11eb-85ca-67569a7973c6.png)
@@ -93,14 +94,14 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 ```
 .list {background: transparent; border: none; font-size: 16px}
 /*
-- Suitable for using with the elements that have bootstrap class (list-group-item) to remove the white background of these elements and remove the border, you can use it like the photo below.
+- Suitable for using with the elements that have bootstrap class (list-group-item) to remove the white background of these elements and remove the border.
 */
 ```
-- before add (list) helper class
+- before add <code>list</code> helper class
 
 ![image](https://user-images.githubusercontent.com/69651552/96490743-85174100-1241-11eb-8294-72e54b2fa016.png)
 
-- after add (list) helper class
+- after add <code>list</code> helper class
 
 ![image](https://user-images.githubusercontent.com/69651552/96500937-ee05b580-124f-11eb-89ee-46e4b149d647.png)
 
@@ -142,14 +143,15 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
     z-index: 1
 }
 /*
-- This helper class is most suitable if you want to add a background-image to your section element, so you may need an overlay above this background-image to enhance its appearance, you can use it as shown in the photos below..
+- This helper class is most suitable if you want to add a background-image to your section element, so you may need an overlay above this background-image to enhance its appearance.
+- You may need to add (relative) helper class to the parent of the element that has this helper class to get the right effect.
 */
 ```
-- before add (overlay) helper class.
+- before add <code>overlay</code> helper class.
 
 ![image](https://user-images.githubusercontent.com/69651552/96491488-9b71cc80-1242-11eb-8c8c-d20d72c86362.png)
 
-- after add (overlay) helper class.
+- after add <code>overlay</code> helper class.
 
 ![image](https://user-images.githubusercontent.com/69651552/96676642-1683d180-136e-11eb-918a-664c435d6cf4.png)
 
@@ -189,9 +191,9 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 /*
    - Add a box element as a before element in its parent element.
 
-   - its opacity equals to 0 until you hover on its parent element.
+   - Its opacity equals to 0 until you hover on its parent element.
    
-   - You may need to add (relative) class to the element that has this helper class to can have the right effect.
+   - You may need to add (relative) class to the element that has this helper class to get the right effect.
 */
 ```
 ----------------------------------------------------------------------------
@@ -215,8 +217,8 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 
 /*
    - Make a line through the element. 
-   - You MUST use a (span) element inside the element that has this helper class to can have the right effect of it.
-   - if you don't use the fasthelpers themes classes with the (span) inside the element, you may need to add a backgrond-color for this (span) as you want to can show it.
+   - You MUST use a (span) element inside the element that has this helper class to get the right effect of it.
+   - If you don't use the fasthelpers themes classes with the (span) inside the element, you may need to add a backgrond-color for this (span) as you want to can show it.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96499870-48057b80-124e-11eb-9d1b-d6ac6e930c5c.png)
@@ -235,7 +237,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 } 
 /*
    - Add incomplete line below the text that has this class.
-   - You may need to add (relative) helper class to the element that has this helper class to can have the right effect, like the photos below.
+   - You may need to add (relative) helper class to the element that has this helper class to get the right effect.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96497128-7e40fc00-124a-11eb-9fde-6aeaa9eb51aa.png)
@@ -261,7 +263,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 /*
    - In order to center the content inside any element.
    - You may need to use the bootstrap class (text-center) with this helper class to have the right effect.
-   - You may need to add (relative) helper class to the parent of the element that has this helper class to can have the right effect, like the photos below.
+   - You may need to add (relative) helper class to the parent of the element that has this helper class to get the right effect.
 */
 ```
 ![image](https://user-images.githubusercontent.com/69651552/96502057-9405ef80-1251-11eb-955d-68673262e1af.png)
@@ -296,26 +298,26 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
    - 2) Also you may need to take a look at the structure of the tools menu as html code, if you want to follow my way in changing the themes.
 
    ![image](https://user-images.githubusercontent.com/69651552/96512988-a0924400-1261-11eb-94e4-3cf9712505d9.png)
-   > I will depend on the data-theme attr. to can manibulate with the style links of the themes easily., as you can see i made 3 different themes colors, each theme has its own file with the same fasthelpers themes classes but with different values of colors and background-colors, and i follow a stable pattern to name theses themes files as you see, the color name of each theme then a dash sign (-) then the word of (theme), and i add additional name (default) to the default theme of the application to can distinguishe it from the rest of themes, then i add each theme file name with its full url path inside the data-theme attr.
+   > I will depend on the data-theme attr. to can manibulate with the style links of the themes easily., as you can see i made 3 different themes colors, each theme has its own file with the same fasthelpers themes classes but with different values of colors and background-colors, and i follow a stable pattern to name theses themes files as you see, the color name of each theme then a dash sign (-) then the word of (theme), and i add additional name (default) to the default theme of the application to can distinguishe it from the rest of themes, then i add each theme file name with its full url path inside the <code>data-theme</code> attr.
 
    - 3) In the top of the page i add the default theme url link, and i will depend on it to change between themes later.
 
    ![image](https://user-images.githubusercontent.com/69651552/96515252-4f844f00-1265-11eb-92f6-66632de97ea6.png)
    > I add to the fasthelpers themes classes inside this file all the colors and background-colors that belongs to this theme only. don't forget to add this link after the link of the fasthelpers itself and the bootstrap link as i showed in the perfect order before.
 
-   - 4) Then the Javascript part comes, i will use jQuery here to control the themes changing color mechanism, the function to change theme color is very easy, like you see below.
+   - 4) Then the Javascript part comes, i will use jQuery here to control the themes changing color mechanism, the function to change theme color is very easy.
 
    ![image](https://user-images.githubusercontent.com/69651552/96516265-19e06580-1267-11eb-9620-0e508bac0184.png)
    > when clicking on any colors inside the tools menu, the function search about link element that has href attribute containing this word (-theme) then replace the url of this href with the url of the chosen theme, the url that i saved before inside the data-theme attr. of each theme color {step b}, and this how to change between themes, while the new theme will be replaced instead of the old current theme depending on changing the url of each theme file, so the new theme will come to your application with its special colors that are saved inside the fastHelpers themes classes.
 
-   - 5) The Most important thing that i still doesn't talk about it is you Must add the required fasthelper theme class to each element that you want it to follow the themes colors rules, for example if you want to make a text has the theme color you will need to add (theme-color) helper class to it, if you want to make an element has the theme background you will need to add (theme-bg) helper class to it, and so on.
+   - 5) The Most important thing that i still haven't talked about it is you Must add the required fasthelper theme class to each element that you want it to follow the themes colors rules, for example if you want to make a text has the theme color you will need to add <code>theme-color</code> helper class to it, if you want to make an element has the theme background you will need to add <code>theme-bg</code> helper class to it, and so on.
 
    - 6) Then, the function of changing the modes from day to night or night to day will be: 
 
    ![image](https://user-images.githubusercontent.com/69651552/96519457-544d0100-126d-11eb-9895-767e3ba40722.png)
    > I move all the FastHelpers Dark Mode Classes from the fasthelpers_themesclasses file to another isolated file called (dark-mode), then when the user clicks on the night icon the function will search about link element that has href containing (-theme) and inject the dark mode file after this link in the order of the code as shown in the function, and when clicking on the day icon the dark mode file will be removed from the DOM.
 
-   - 7) You may notice in the previous dark mode function that we add to each element that has (text-for-dark) class another class called (dark-color) and each element has (box-for-dark) class another class called (dark-box) when switching to the dark mode., that means if you need any text to be colored with a different color suitable for the dark mode you may need to add (text-for-dark) helper class to it in order to match the dark mode function and if you need any element to be colored with a different background-color suitable for the dark mode you may need to add (box-for-dark) helper class to it in order to match the dark mode function, and you may notice that (dark-box) and (dark-color) classes will be removed from any elements in the DOM after clicking on the day icon as the day mode function said, to return the elements to its normal shape.  
+   - 7) You may notice in the previous dark mode function that we add to each element that has <code>text-for-dark</code> class another class called <code>dark-color</code> and each element has <code>box-for-dark</code> class another class called <code>dark-box</code> when switching to the dark mode., that means if you need any text to be colored with a different color suitable for the dark mode you may need to add <code>text-for-dark</code> helper class to it in order to match the dark mode function and if you need any element to be colored with a different background-color suitable for the dark mode you may need to add <code>box-for-dark</code> helper class to it in order to match the dark mode function, and you may notice that <code>dark-box</code> and <code>dark-color</code> helper classes will be removed from any elements in the DOM after clicking on the day icon as the day mode function said, to return the elements to its normal style.  
 
    > Note: the way above of chnaging themes color or theme modes is optional, you don't have to use it anymore, and you can use any way else that leads to the same result, i wish you understand the concept of my way then you can use it by any another way, but the next point of explanation each fasthelper theme class is the important point and you have to use it as shown below to have the right effect.
 
