@@ -2,13 +2,13 @@
 
    ![image](https://user-images.githubusercontent.com/69651552/96674940-1d104a00-136a-11eb-8924-c505235a4e90.png)
 
-Simple Open Source CSS Framework Especially Suitable for the Beginners in the Field of Front-End Web Development, to help them making their Projects in a Fast Way as Possible, as it let you focus on the code more than on the style anymore.
+Simple Open Source CSS Framework Especially Suitable for the Beginners in the Field of Front-End Web Development, to help them making their Projects in a Fast Way as Possible, where it let you focus on the Code more than on the Style anymore.
 
 ## Description
 
 FastHelpers Framework will save you a lot of time in adding some frequently duplicated styles for many of the elements in your application. I have collected most of these styles and limited them precisely in some classes named after each style to maintain the flexibility of working with these classes, also i add some helpers classes special for your application theme color and dark mode, and by using them you can make multiple themes in a very easy way as i will show you below, also you can control day and dark mode easily.
 
-> Note: Again i say that this framework matches the beginners in the field than the professional geeks because defenitiely there are many professional frameworks you can use and also advanced ways in control themes changes better than the way i use in this framework, but you can use this framework as a good start step for you in your projects until you deep learning in the other techniques that you will learn in the future.
+> Note: again i say that this framework matches the beginners in the field than the professional geeks because defenitiely there are many professional frameworks you can use and also advanced ways in control themes changes better than the way i use in this framework, but you can use this framework as a good start step for you in your projects until you deep learning in the other techniques that you will learn in the future.
 
 ## Features  
 
@@ -16,8 +16,8 @@ FastHelpers Framework will save you a lot of time in adding some frequently dupl
 - Easy to use and understand the Classes Components.
 - Highly Flexibility.
 - Familiar with the use of Bootstrap Framework and can work with it Perfectly.
-- Depending on the Name of the Framework (FastHelpers), it has Speed, Fast and Flexible Helper Classes that are named precisely to match the name of each style.
-- Very Important Feature: while it has Important Helper Classes that are grouped together in one Collection called  [FastHelpers Themes Classes (FHTC)], these Helpers Themes Classes will help you to make Different and Multiple THEMES for your Website in no Time, Plus they have in the same collection another Helpers Themes Classes Special for DARK MODE Theme,
+- Depending on the Name of the Framework (FastHelpers), it has Speed, Fast and Flexible Helper Classes that are named Precisely to match the Name of each Style.
+- Very Important Feature: while it has Important Helper Classes that are grouped together in one Collection called  [FastHelpers Themes Classes (FHTC)], these Helpers Themes Classes will help you to make Different and Multiple THEMES for your Website in no Time, Plus they have in the same Collection another Helpers Themes Classes Special for DARK MODE,
 and by just Manipulating with Colors & Background-colors only in this Helpers Themes Classes you can make Multiple Themes.
 
 ## Prerequisites
@@ -30,7 +30,7 @@ and by just Manipulating with Colors & Background-colors only in this Helpers Th
 
 #### First:  Perfect Location to insert this Framework Files.
 
-- If you use Bootstrap framework, so it is prefered to add fasthelpers files after the bootstrap link and after the style of the page itself that you stand on it now, like the photo below.
+- If you use bootstrap framework, so it is prefered to add fasthelpers files after the bootstrap link and after the style of the page itself that you stand on it now, like the photo below.
 
 ![image](https://user-images.githubusercontent.com/69651552/96479351-1f26bb80-1239-11eb-91df-bfcd8323f2af.png)
 
