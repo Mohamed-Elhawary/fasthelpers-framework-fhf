@@ -4,7 +4,7 @@
 
 Simple Open Source CSS Framework Especially Suitable for the Beginners in the Field of Front-End Web Development, to help them making their Projects in a Fast Way as Possible, where it let you focus on the Code more than on the Style anymore.
 
-## Description
+## Objective
 
 FastHelpers Framework will save you a lot of time in adding some frequently duplicated styles for many of the elements in your application. I have collected most of these styles and limited them precisely in some classes named after each style to maintain the flexibility of working with these classes, also i add some helpers classes special for your application theme color and dark mode, and by using them you can make multiple themes in a very easy way as i will show you below, also you can control day and dark mode easily.
 
