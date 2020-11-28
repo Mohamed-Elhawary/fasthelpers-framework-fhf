@@ -2,7 +2,7 @@
 
    ![image](https://user-images.githubusercontent.com/69651552/96674940-1d104a00-136a-11eb-8924-c505235a4e90.png)
 
-Simple Open Source CSS Framework Especially Suitable for the Beginners in the Field of Front-End Web Development, to help them making their Projects in a Fast Way as Possible, where it let you focus on the Code more than on the Style anymore.
+Simple open-source CSS framework especially suitable for the beginners in the field of Front-End Web Development, to help them make their projects in a fast way as possible, so it allows you to focus on the code more than on the style anymore.
 
 ## Objective
 
