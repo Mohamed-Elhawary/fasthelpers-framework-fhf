@@ -511,7 +511,7 @@ body {background-color: #121212}
 This is the starting version of the framework, I will enhance it in the next versions by adding more classes, using different techniques to build the framework like (SASS) and adding some other features that absolutely will improve the performance. 
 
 
-## Built With
+## Built with
 
 * CSS
 
@@ -530,7 +530,7 @@ This is the starting version of the framework, I will enhance it in the next ver
 ## Contact me through my social accounts
 
 * Email: mohamed.k.elhawary@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mohamed-elhawary14/)
+* [Linkedin](https://www.linkedin.com/in/mohamed-elhawary14/)
 * [Github](https://github.com/Mohamed-Elhawary)  
 * [Behance](https://www.behance.net/mohamed-elhawary14)
 * [Codepen](https://codepen.io/Mohamed-ElHawary) 
